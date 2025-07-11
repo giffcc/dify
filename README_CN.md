@@ -4,7 +4,7 @@
   <a href="https://cloud.dify.ai">Dify 云服务</a> ·
   <a href="https://docs.dify.ai/getting-started/install-self-hosted">自托管</a> ·
   <a href="https://docs.dify.ai">文档</a> ·
-  <a href="https://dify.ai/pricing">Dify 产品形态总览</a>
+  <a href="https://dify.ai/pricing">Dify 产品形态总览 </a>
 </div>
 
 <p align="center">
